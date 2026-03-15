@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的网站</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<center>
+
+
+<h1>这是我的第二个网站</h1>
+<p>我会在这个网站里写一首诗</p>
+<h3>午后随笔</h3>
+
+
+<div style="text-align:center;">
+ <p style="margin-left: 1.5em;"> 同窗谈笑陋室里，玉蝶摇曳此园中。</p>
+ <p style="margin-left: 1.5em;"> 昔日爱情随风去，真情方从今日始。</p>
+
+</div>
+
+</center>
+
+
+</body>
+</html>
